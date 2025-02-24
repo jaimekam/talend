@@ -1,0 +1,26 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="tMap_1=>" expression="Integer.parseInt(TalendDate.formatDate(&quot;yyyy&quot;,TalendDate.getCurrentDate()))">
+  <variables name="row2.secuencia" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.grupo" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.sub_grupo" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.presta" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.corr" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.titulo" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.anes1" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.anesben1" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.anes2" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.anesben2" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.anes3" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.anesben3" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.equipo" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.pab" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.glosa" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.total1" value="null" talendType="id_Long" nullable="true"/>
+  <variables name="row2.bene1" value="null" talendType="id_Long" nullable="true"/>
+  <variables name="row2.total2" value="null" talendType="id_Long" nullable="true"/>
+  <variables name="row2.bene2" value="null" talendType="id_Long" nullable="true"/>
+  <variables name="row2.total3" value="null" talendType="id_Long" nullable="true"/>
+  <variables name="row2.bene3" value="null" talendType="id_Long" nullable="true"/>
+  <variables name="row4.arcsu_id" value="0" talendType="id_Integer"/>
+  <variables name="row4.arcsu_codigo" value="null" talendType="id_String"/>
+</expression:EMFExpression>
