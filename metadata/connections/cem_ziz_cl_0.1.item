@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_PQ2IUJFIEeiGaNXqmqU54A" name="cem.ziz.cl" id="_DhtnsJFIEeiGaNXqmqU54A" label="cem.ziz.cl" dataPackage="_PeUjoJFIEeiGaNXqmqU54A" DatabaseType="PostgreSQL" DriverClass="org.postgresql.Driver" URL="jdbc:postgresql://localhost:3342/sis" dbVersionString="V9_X" Port="3342" Username="postgres" Password="xgz2+00s9ltVk51TE7PmsA==" ServerName="localhost" DatasourceName="" FileFieldName="" SID="sis" SqlSynthax="SQL Syntax" DbmsId="postgres_id" ProductId="POSTGRESQL" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="public">
+    <taggedValue xmi:id="_PQ2IUZFIEeiGaNXqmqU54A" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_PRRmIJFIEeiGaNXqmqU54A" tag="package filter" value=""/>
+    <taggedValue xmi:id="_PRSNMJFIEeiGaNXqmqU54A" tag="Status" value=""/>
+    <taggedValue xmi:id="_PRSNMZFIEeiGaNXqmqU54A" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_PRSNMpFIEeiGaNXqmqU54A" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_PRSNM5FIEeiGaNXqmqU54A" tag="Description" value=""/>
+    <taggedValue xmi:id="_PRSNNJFIEeiGaNXqmqU54A" tag="Author" value=""/>
+    <taggedValue xmi:id="_PRSNNZFIEeiGaNXqmqU54A" tag="otherParameter"/>
+    <taggedValue xmi:id="_PXFTMJFIEeiGaNXqmqU54A" tag="DB ProductName" value="PostgreSQL"/>
+    <taggedValue xmi:id="_PXFTMZFIEeiGaNXqmqU54A" tag="DB ProductVersion" value="9.3.23"/>
+    <taggedValue xmi:id="_PXFTMpFIEeiGaNXqmqU54A" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_PQ2IUpFIEeiGaNXqmqU54A" key="CONN_PARA_KEY_USERNAME" value="postgres"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_PeUjoJFIEeiGaNXqmqU54A" name="sis" dataManager="_PQ2IUJFIEeiGaNXqmqU54A">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_PeUjoZFIEeiGaNXqmqU54A" name="public"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>
